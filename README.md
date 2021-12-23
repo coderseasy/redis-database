@@ -1,5 +1,5 @@
 # redis-database
-### para la instalacion de redis descargar el archivo Redis-x64-3.0.504.zip que se encuentra en este repositorio
+### para la instalacion de redis descargar el archivo Redis-x64-3.0.504.zip que se encuentra en este repositorio o tambien puede descargarlo de [repositorio](https://github.com/MicrosoftArchive/redis/releases)
 
 instalar redis video de referencia
 [video de instalacion](https://www.youtube.com/watch?v=lwcikOT97lc&list=PLCTD_CpMeEKRjdM94onQPs3qTISaPkmxa&index=2)
