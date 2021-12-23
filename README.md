@@ -8,9 +8,8 @@ instalar redis video de referencia
 #### una ves descargado el archivo se procede a copiar los archivos  php_redis.dll  y php_redis.pdb a donde se encuentra los archivos de configuracion de php, en el caso de que estes trabajando con xampp este es el directorio C:\xampp\php\ext y pegar los dos archivos.
 #### luego entrar al archivo php.ini si es el caso de xampp se encuentra en C:\xampp\php y agregar
 #### extension=php_redis.dll
-## revisar la guia [guia para agregar redis a php](https://ourcodeworld.co/articulos/leer/1502/como-instalar-y-usar-la-extension-redis-en-xampp-localmente-en-windows-10)
+## revisar la guia [guia para agregar redis a php](https://programmerclick.com/article/4153123382/)
 
-#### guia alternativa [guia alternativa instalacion de redis extension en php](https://programmerclick.com/article/4153123382/)
 
 # instalacion de paquetes en laravel mediante predis
 ## `composer require predis/predis`
